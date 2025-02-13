@@ -76,7 +76,7 @@ body{
     transform: translateY(-100px);
 }
 .card .text{
-    font-family: 'Times New Roman', Serif;
+    font-family: 'Gill Sans', sans-serif;
     font-size: 28px;
     text-align: center;
     line-height: 25px;
